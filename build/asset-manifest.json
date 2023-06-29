@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Fod-Apps/static/css/main.39d0cce3.css",
+    "main.js": "/Fod-Apps/static/js/main.eefedd0d.js",
+    "static/media/meals.jpg": "/Fod-Apps/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Fod-Apps/index.html",
+    "main.39d0cce3.css.map": "/Fod-Apps/static/css/main.39d0cce3.css.map",
+    "main.eefedd0d.js.map": "/Fod-Apps/static/js/main.eefedd0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39d0cce3.css",
+    "static/js/main.eefedd0d.js"
+  ]
+}
